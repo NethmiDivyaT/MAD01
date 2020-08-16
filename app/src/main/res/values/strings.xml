@@ -1,0 +1,16 @@
+<resources>
+    <!-- wishlist.xml-->
+    <string name="app_name">Whishlist</string>
+    <string name="TextView1">Item_name</string>
+    <string name="TextView2">Item_description</string>
+    <string name="TextView3">Item_price</string>
+
+    <!-- Edit.xml-->
+    <string name="title"> Presonal Notes </string>
+    <string name="checkbox"> Contacted Salesman </string>
+    <string name="Personal_Note"> Your personal Note...... </string>
+    <string name="Appoinmet"> If You Place an Appoinment with claient Enter Details </string>
+    <string name="date"> Date </string>
+    <string name="time"> Time </string>
+    <string name="btn"> Edit </string>
+</resources>
